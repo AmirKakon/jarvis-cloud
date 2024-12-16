@@ -1,0 +1,346 @@
+2024-12-16 15:33:27,835 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 15:33:27,836 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-16 15:33:27,837 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:33:28,467 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:33:28,485 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:33:30,635 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:33:30] "[33mGET / HTTP/1.1[0m" 404 -
+2024-12-16 15:33:32,693 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:33:32] "[33mGET / HTTP/1.1[0m" 404 -
+2024-12-16 15:33:54,171 - main - INFO - Test endpoint called
+2024-12-16 15:33:54,173 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:33:54] "GET /api/test HTTP/1.1" 200 -
+2024-12-16 15:34:56,043 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:34:56,168 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:34:56,714 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:34:56,718 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:39:25,412 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/config.py', reloading
+2024-12-16 15:39:25,543 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:39:26,069 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:39:26,074 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:41:02,682 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:41:02,827 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:41:03,361 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:41:03,365 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:41:22,499 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:41:22,608 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:41:23,134 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:41:23,138 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:41:42,272 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:41:42,385 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:41:42,911 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:41:42,916 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:41:46,955 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:41:47,064 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:41:47,568 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:41:47,572 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:03,685 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:03,792 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:04,318 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:04,322 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:39,569 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:39,688 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:40,230 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:40,234 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:42,261 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:42,382 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:42,910 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:42,915 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:44,943 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:45,051 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:45,705 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:45,716 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:46,752 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:46,889 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:47,394 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:47,398 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:50,437 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:50,549 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:51,225 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:51,229 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:52,249 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:52,357 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:52,857 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:52,861 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:42:54,887 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:42:55,008 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:42:55,534 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:42:55,538 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:43:06,633 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:43:06] "[33mGET / HTTP/1.1[0m" 404 -
+2024-12-16 15:43:58,509 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:43:58] "[33mGET / HTTP/1.1[0m" 404 -
+2024-12-16 15:44:04,978 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:44:04] "[33mGET / HTTP/1.1[0m" 404 -
+2024-12-16 15:44:10,503 - main - DEBUG - Dev endpoint called, You are in env: production
+2024-12-16 15:44:10,504 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:44:10] "GET /api/dev HTTP/1.1" 200 -
+2024-12-16 15:45:24,660 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 15:45:24,661 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-16 15:45:24,662 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:45:25,186 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:45:25,190 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:45:28,913 - main - DEBUG - Dev endpoint called, You are in env: production
+2024-12-16 15:45:28,914 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:45:28] "GET /api/dev HTTP/1.1" 200 -
+2024-12-16 15:45:31,431 - main - DEBUG - Dev endpoint called, You are in env: production
+2024-12-16 15:45:31,432 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:45:31] "GET /api/dev HTTP/1.1" 200 -
+2024-12-16 15:48:06,100 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 15:48:06,100 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-16 15:48:06,101 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:48:06,614 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:48:06,618 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:48:09,210 - main - DEBUG - Dev endpoint called, You are in env: development
+2024-12-16 15:48:09,211 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:48:09] "GET /api/dev HTTP/1.1" 200 -
+2024-12-16 15:48:52,914 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:48:53,016 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:48:53,574 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:48:53,578 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:48:57,619 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:48:57,744 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:48:58,245 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:48:58,249 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:49:01,290 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:49:01,423 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:49:01,945 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:49:01,949 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:49:08,007 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:49:08,127 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:49:10,543 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:49:12,019 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:49:12,547 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:49:12,555 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:49:14,584 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:49:14,706 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:49:15,398 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:49:15,404 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:49:16,436 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:49:16,573 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:49:17,077 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:49:17,082 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:49:18,414 - main - DEBUG - Dev endpoint called, You are in env: development
+2024-12-16 15:49:18,424 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:49:18] "[35m[1mGET /api/dev HTTP/1.1[0m" 500 -
+2024-12-16 15:49:18,564 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:49:18] "GET /api/dev?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-16 15:49:18,569 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:49:18] "GET /api/dev?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-16 15:49:18,717 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:49:18] "GET /api/dev?__debugger__=yes&cmd=resource&f=console.png&s=IdazWcfgVlNpbJ9J751u HTTP/1.1" 200 -
+2024-12-16 15:49:18,818 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:49:18] "GET /api/dev?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-16 15:49:58,362 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:49:58,489 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:50:04,911 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:50:05,586 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:50:05,591 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:50:08,641 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:50:08,791 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:50:09,308 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:50:09,312 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:50:15,333 - main - DEBUG - Dev endpoint called, You are in env: development
+2024-12-16 15:50:15,335 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:50:15] "GET /api/dev HTTP/1.1" 200 -
+2024-12-16 15:50:26,436 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:50:26,579 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:50:27,138 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:50:27,142 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:51:43,628 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:51:43,753 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:51:44,259 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:51:44,263 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:51:49,307 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:51:49,418 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:51:49,962 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:51:49,966 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:52:01,050 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:52:01,197 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:52:01,824 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:52:01,831 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:52:02,853 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:52:02,972 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:52:03,502 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:52:03,506 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:52:35,739 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:52:35,866 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:52:36,361 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:52:36,365 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:52:42,941 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:52:42] "GET / HTTP/1.1" 200 -
+2024-12-16 15:53:30,592 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:53:30] "GET / HTTP/1.1" 200 -
+2024-12-16 15:55:04,336 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:55:04,449 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:55:04,948 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:55:04,952 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:55:06,979 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:55:07,104 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:55:07,606 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:55:07,610 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:55:19,187 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:55:19] "GET / HTTP/1.1" 200 -
+2024-12-16 15:55:56,936 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:55:57,059 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:55:57,561 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:55:57,565 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:55:57,769 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:55:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-16 15:55:57,871 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:55:57] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-16 15:55:57,976 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:55:57] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-16 15:55:58,110 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:55:58] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=rJPjBmx3xL3XlGNXAbAL HTTP/1.1" 200 -
+2024-12-16 15:55:58,232 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:55:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-16 15:56:14,686 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:56:14,807 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:56:15,328 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:56:15,332 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:56:18,371 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:56:18,479 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:56:20,843 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:56:21,371 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:56:21,375 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:56:22,395 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:56:22,509 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:56:23,017 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:56:23,021 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:56:23,057 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:56:23] "GET / HTTP/1.1" 200 -
+2024-12-16 15:56:37,155 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:56:37,290 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:56:37,840 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:56:37,846 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:56:39,956 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:56:39] "GET / HTTP/1.1" 200 -
+2024-12-16 15:56:47,928 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:56:48,044 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:56:48,569 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:56:48,573 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:56:50,493 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:56:50] "GET / HTTP/1.1" 200 -
+2024-12-16 15:57:34,876 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:57:34,989 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:57:35,502 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:57:35,506 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:57:36,458 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:57:36] "GET / HTTP/1.1" 200 -
+2024-12-16 15:57:38,200 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:57:38] "GET / HTTP/1.1" 200 -
+2024-12-16 15:57:43,570 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:57:43,691 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:57:44,219 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:57:44,223 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:57:45,651 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:57:45] "GET / HTTP/1.1" 200 -
+2024-12-16 15:57:53,295 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:57:53,414 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:57:53,903 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:57:53,907 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:57:54,893 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:57:54] "GET / HTTP/1.1" 200 -
+2024-12-16 15:58:53,310 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:58:53,432 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:58:54,081 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:58:54,085 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:58:55,106 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:58:55,224 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:58:55,838 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:58:55,846 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:58:56,874 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:58:56,976 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:58:57,503 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:58:57,507 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:01,549 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:01,655 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:02,149 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:02,153 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:06,200 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:06,355 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:07,000 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:07,004 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:08,028 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:08,207 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:11,668 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:12,162 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:12,167 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:15,199 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:15,305 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:15,858 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:15,862 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:26,047 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:59:26] "GET / HTTP/1.1" 200 -
+2024-12-16 15:59:39,030 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:39,149 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:39,816 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:39,820 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:40,842 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:40,953 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:41,469 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:41,473 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:45,513 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 15:59:45,630 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 15:59:46,154 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 15:59:46,158 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 15:59:46,372 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 15:59:46] "GET / HTTP/1.1" 200 -
+2024-12-16 16:00:01,270 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:00:01,402 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:00:01,951 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:00:01,955 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:00:10,017 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:00:10,133 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:00:10,657 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:00:10,661 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:00:10,774 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:00:10] "GET / HTTP/1.1" 200 -
+2024-12-16 16:00:15,709 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:00:15,830 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:00:16,340 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:00:16,344 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:00:17,365 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:00:17,477 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:00:18,026 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:00:18,030 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:00:28,123 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:00:28,247 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:00:28,761 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:00:28,765 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:00:29,811 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:00:29] "GET / HTTP/1.1" 200 -
+2024-12-16 16:00:32,834 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:00:32,966 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:00:33,561 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:00:33,565 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:00:40,902 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:00:40] "GET / HTTP/1.1" 200 -
+2024-12-16 16:00:49,813 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:00:49] "GET / HTTP/1.1" 200 -
+2024-12-16 16:01:05,780 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:01:05,934 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:01:06,444 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:01:06,448 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:01:09,482 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:01:09,595 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:01:10,128 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:01:10,137 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:01:49,305 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:01:49] "GET / HTTP/1.1" 200 -
+2024-12-16 16:02:50,778 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:02:50,916 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:02:51,531 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:02:51,535 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:02:52,559 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:02:52,655 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:02:53,186 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:02:53,190 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:02:59,000 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:02:59] "GET / HTTP/1.1" 200 -
+2024-12-16 16:03:24,397 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:03:24,515 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:03:25,957 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:03:26,673 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:03:26,680 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:03:30,726 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:03:30,831 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:03:33,245 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:03:33,795 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:03:33,800 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:03:34,825 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:03:34,950 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:03:35,512 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:03:35,516 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:03:36,329 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:03:36] "GET / HTTP/1.1" 200 -
+2024-12-16 16:03:56,660 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:03:56,769 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:03:57,292 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:03:57,297 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:04:21,467 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:04:21,580 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:04:22,309 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:04:22,315 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:04:28,382 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:04:28,517 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:04:29,256 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:04:29,260 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:04:31,288 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:04:31,409 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:04:31,935 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:04:31,939 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:04:39,999 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:04:40,147 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:04:40,653 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:04:40,657 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:04:41,844 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:04:41] "GET / HTTP/1.1" 200 -
+2024-12-16 16:04:48,721 - werkzeug - INFO -  * Detected change in '/home/user/jarvis-cloud/main.py', reloading
+2024-12-16 16:04:48,862 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 16:04:49,386 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 16:04:49,390 - werkzeug - INFO -  * Debugger PIN: 109-145-160
+2024-12-16 16:04:51,148 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 16:04:51] "GET / HTTP/1.1" 200 -

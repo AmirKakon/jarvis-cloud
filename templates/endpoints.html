@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Endpoints</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            padding: 8px;
+            margin: 5px 0;
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>API Endpoints</h1>
+
+    {% for group, routes in routes_by_group.items() %}
+        <h2>{{ group | capitalize }} API</h2>
+        <ul>
+            {% for route in routes %}
+                <li>{{ route }}</li>
+            {% else %}
+                <li>No routes available.</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No grouped API endpoints found.</p>
+    {% endfor %}
+</body>
+</html>
