@@ -1,6 +1,6 @@
 import logging
 from flask import Blueprint, request, jsonify
-from .repo_manager import create_repo, get_all_repos, delete_repo
+from . import repo_manager
 
 # Set up logging for this module
 logger = logging.getLogger(__name__)

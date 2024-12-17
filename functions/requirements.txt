@@ -1,1 +1,10 @@
-firebase_functions~=0.1.0
+firebase_functions
+firebase_admin
+pip
+autopep8
+flask
+gunicorn==22.0.0
+Werkzeug==3.0.6
+PyGithub
+python-dotenv
+flask-cors
